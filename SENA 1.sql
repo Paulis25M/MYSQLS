@@ -1,0 +1,1 @@
+SELECT * FROM sena.aprendices;
